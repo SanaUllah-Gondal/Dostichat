@@ -1,0 +1,4 @@
+﻿# Ignore chat logs & temp files
+data/
+.env
+*.log
